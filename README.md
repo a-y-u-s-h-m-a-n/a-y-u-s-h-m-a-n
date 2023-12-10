@@ -5,13 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-y-u-s-h-m-a-n&label=Profile%20views&color=0e75b6&style=flat" alt="a-y-u-s-h-m-a-n" /> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@_ayushman_](https://medium.com/@_ayushman_)
-
 - 📫 How to reach me **itsayushman07@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +16,6 @@
 <a href="https://medium.com/@_ayushman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@_ayushman_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/a_y_u_s_h_m_a_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a_y_u_s_h_m_a_n" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/_ayushman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_ayushman_" height="30" width="40" /></a>
-<a href="/https://medium.com/@_ayushman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@_ayushman_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
