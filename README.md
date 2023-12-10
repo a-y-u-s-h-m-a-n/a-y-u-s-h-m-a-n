@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s1280x1920/867979c9a1d803b0d13ff8cdc7393fcf33c84511.gifv)]
+![MasterHead](https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s1280x1920/867979c9a1d803b0d13ff8cdc7393fcf33c84511.gifv)
 <h1 align="center">Hi 👋, I'm Ayushman Banerjee</h1>
 <h3 align="center">An Aspiring Machine Learning and AI Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
